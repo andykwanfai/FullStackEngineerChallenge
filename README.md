@@ -3,7 +3,7 @@
 ## Assumption
 1. One employee only has one review
 2. Admin cannot give feedback
-3. Same employee only assigned to submit feedback once
+3. One employee is only assigned to submit feedback for same employee once
 
 ## Finished features
 ### Admin view
