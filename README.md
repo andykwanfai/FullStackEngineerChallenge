@@ -1,6 +1,26 @@
 # Full Stack Developer Challenge
-This is an interview challengs. Please feel free to fork. Pull Requests will be ignored.
 
+## Assumption
+1. One employee only has one review
+2. Admin cannot give feedback
+3. Same employee only assigned to submit feedback once
+
+## Finished features
+### Admin view
+* view employees
+* Add/view performance reviews
+* Assign employees to participate in another employee's performance review
+### Employee view
+* List of performance reviews requiring feedback
+* Submit feedback
+
+## Tech stacks
+* Frontend: React
+* Backend: Node.js and Express
+* DB: MongoDB
+
+```
+This is an interview challengs. Please feel free to fork. Pull Requests will be ignored.
 ## Requirements
 Design a web application that allows employees to submit feedback toward each other's performance review.
 
@@ -36,3 +56,4 @@ Design a web application that allows employees to submit feedback toward each ot
 * Assumptions you make given limited requirements
 * Technology and design choices
 * Identify areas of your strengths
+```
